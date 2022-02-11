@@ -39,4 +39,3 @@ While there was some element of luck involved in surviving, it seems some groups
 
 ## Outputs:
 ![](https://github.com/EswarEanumula/Titanic-MachineLearning-From-Disaster-KaggleComp/blob/main/Outs/__results___8_1.png)
-
